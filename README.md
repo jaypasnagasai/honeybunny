@@ -20,7 +20,7 @@ The `honey_bunny` function is designed to loop through a range of numbers and ap
 
 To use the `honey_bunny` function, follow these steps:
 
-1. Clone this repository or copy the code from [`honey_bunny.py`](honey_bunny.py).
+1. Clone this repository or copy the code from [`main.py`](main.py).
 2. Run the script in your preferred Python environment.
 3. Follow the prompts to provide inputs for the function parameters, including range limits, numbers for special handling, and replacement words.
 
