@@ -55,8 +55,8 @@ honey_bunny(lower_limit, upper_limit, num1, num2, honey_word, bunny_word)
 
 Running the above code will generate a sequence of numbers with special replacements for multiples of num1 and num2 based on the provided words.
 
-Contributing
+# Contributing
 Contributions to this repository are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-License
+# License
 This project is licensed under the MIT License.
