@@ -1,5 +1,3 @@
-an you create a github README Page for this code
-
 # Define a function named honey_bunny that takes in parameters:
 # lower_limit: the lower limit of the range of numbers
 # upper_limit: the upper limit of the range of numbers
