@@ -1,7 +1,5 @@
 # Honey Bunny
 
-# Honey Bunny
-
 This repository contains a Python function called `honey_bunny` that performs special handling for multiples of two given numbers within a specified range. The function takes in various parameters including the range limits, the numbers whose multiples need special handling, and the words to be used for replacements.
 
 ## Table of Contents
