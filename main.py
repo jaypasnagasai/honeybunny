@@ -1,10 +1,4 @@
-# Define a function named honey_bunny that takes in parameters:
-# lower_limit: the lower limit of the range of numbers
-# upper_limit: the upper limit of the range of numbers
-# num1: the first number whose multiples need special handling
-# num2: the second number whose multiples need special handling
-# honey_word: the word to be used for multiples of num1
-# bunny_word: the word to be used for multiples of num2
+
 def honey_bunny(lower_limit, upper_limit, num1, num2, honey_word, bunny_word):
     # Loop through numbers from lower_limit to upper_limit (inclusive)
     for num in range(lower_limit, upper_limit + 1):
