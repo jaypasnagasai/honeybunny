@@ -49,7 +49,9 @@ num2 = 5
 honey_word = "Fizz"
 bunny_word = "Buzz"
 
+
 honey_bunny(lower_limit, upper_limit, num1, num2, honey_word, bunny_word)
+```
 
 Running the above code will generate a sequence of numbers with special replacements for multiples of num1 and num2 based on the provided words.
 
